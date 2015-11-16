@@ -31,6 +31,6 @@ git config --global http.proxy http://user:password@tur-cache.massey.ac.nz:8080
 git config --global https.proxy http://user:password@tur-cache.massey.ac.nz:8080
 #add this to a remote repo origin is github
 git remote add origin git@github.com:dwheelerau/masseyTest.git
-
+#hi there MT
 
 
