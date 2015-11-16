@@ -34,3 +34,14 @@ git remote add origin https://github.com/dwheelerau/masseyTest.git
 #now push the local to the orgin (ie github)
 git push -u origin master
 
+#cloning
+git clone https://github.com/hcalitz/MasseyLatexTemplates.git
+
+#got to github folder and see settings, add collaborator by username
+#use git push and if there is a conflict thjen I need to pull ie
+#git pull orgin master
+#then make the changes and push back to the orgin again
+#branching
+ 
+
+
