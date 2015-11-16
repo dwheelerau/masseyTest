@@ -13,3 +13,11 @@ git add filename
 git log
 
 #this is another comment line
+
+git diff
+git diff --staged
+
+#can use the log number first few characters to look at diff
+git diff 0475c322 doc.txt #the 0475.. is the hash
+#or
+git diff HEAD~1 doc.txt
