@@ -1,0 +1,9 @@
+git config --list
+
+#set proxy
+git config --global http.proxy http://tur-cache.massey.ac.nz:8080
+
+#disable proxy
+git config --global --unset http.proxy
+
+
