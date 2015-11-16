@@ -57,5 +57,3 @@ git merge dev
 
 git tag 1.2.0 1d3f.. #ie the hash
 ie se git log to get the numbers
-
-
