@@ -23,3 +23,12 @@ git diff 0475c322 doc.txt #the 0475.. is the hash
 git diff HEAD~1 doc.txt
 
 #this is a bad commentjakjdfkjadfjkajdfjafjkl
+#this will go back to the last commit and throw away nathing in staged area
+git checkout HEAD doc.txt
+
+git config --global http.proxy http://user:password@tur-cache.massey.ac.nz:8080
+ 
+git config --global https.proxy http://user:password@tur-cache.massey.ac.nz:8080
+ 
+
+
