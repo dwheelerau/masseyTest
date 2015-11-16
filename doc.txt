@@ -30,7 +30,7 @@ git config --global http.proxy http://user:password@tur-cache.massey.ac.nz:8080
  
 git config --global https.proxy http://user:password@tur-cache.massey.ac.nz:8080
 #add this to a remote repo origin is github
-git remote add origin git@github.com:dwheelerau/masseyTest.git
-
-
+git remote add origin https://github.com/dwheelerau/masseyTest.git
+#now push the local to the orgin (ie github)
+git push -u origin master
 
