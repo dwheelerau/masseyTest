@@ -11,3 +11,5 @@ git add filename
 
 #check all the commits using the following
 git log
+
+#this is another comment line
