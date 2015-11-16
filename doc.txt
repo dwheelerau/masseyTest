@@ -7,3 +7,4 @@ git config --global http.proxy http://tur-cache.massey.ac.nz:8080
 git config --global --unset http.proxy
 
 #need to stage the file then commit it with a message
+git add filename
