@@ -42,6 +42,7 @@ git clone https://github.com/hcalitz/MasseyLatexTemplates.git
 #git pull orgin master
 #then make the changes and push back to the orgin again
 #branching
- 
+git branch #tells you what branch
+git checkout -b dev
 
 
