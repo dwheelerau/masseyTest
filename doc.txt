@@ -45,4 +45,13 @@ git clone https://github.com/hcalitz/MasseyLatexTemplates.git
 git branch #tells you what branch
 git checkout -b dev
 
-#this is a bit of text for the branch
+
+#change to the master
+git checkout master
+#now here we can do the diff
+  
+this is a bit of text for the branch
+git diff master dev
+
+git merge dev
+
