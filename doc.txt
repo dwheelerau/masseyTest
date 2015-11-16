@@ -45,4 +45,4 @@ git clone https://github.com/hcalitz/MasseyLatexTemplates.git
 git branch #tells you what branch
 git checkout -b dev
 
-
+#this is a bit of text for the branch
